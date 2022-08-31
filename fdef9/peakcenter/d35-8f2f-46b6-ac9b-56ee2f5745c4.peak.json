@@ -1,0 +1,30 @@
+{
+    "CDD": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QM9tc7V+h2BAz3GetX6HYEDPdci1fodgQM958rV+h2BAz34dtX6HYEDPgke1fodgQM+GcbV+h2BAz4qctX6HYEDPjsa1fodgQM+S8LV+h2BAz5cbtX6HYEDPm0U6KGbQQM+fb7V+h2BAz6OaOihm0EDPp8S1fodgQM+r7jsolo1Az7AZO1LALEDPtEM7fOnMQM+4bTtSwCxAz7yYO3zpzEDPwMI759z6QM/E7TwJA09Az8kXO72zV0DPzUE759z6QM/RbDweGCFAz9WWPBONuEDP2cA759z6QM/d6zw9t15Az+IVO9LIKEDP5j87/PHMQM/qajvn3PpAz+6UPEhByEDP8r47/PHMQM/26Tt86cxAz/sTO/zxzEDP/z08CQNPQNADaDuonodA0AeSO/zxzEDQC7w7vbNXQNAP5zv88cxA0BQRPAkDT0DQGDs7vbNXQNAcZjv88cxA0CCQO5OJtkDQJLs7fOnMQNAo5TuTibZA0C0PO3zpzEDQMTo7UsAsQNA1ZDtSwCxA0DmOOvzZ3kDQPbk6KGbQQNBB47V+h2BA0EYNOihm0EDQSjg6KGbQQNBOYjooZtBA0FKMOihm0EDQVre1fodgQNBa4bV+h2BA0F8LtX6HYEDQYza1fodg",
+        "resolution": null
+    },
+    "H1": {
+        "center_dac": 6.496900180360726,
+        "center_signal": 1.8106007856008326,
+        "high_dac": 6.505437254509022,
+        "high_resolving_power": 3730.9864252859606,
+        "high_signal": 0.3582478851426304,
+        "low_dac": 6.48836310621243,
+        "low_resolving_power": 412.40116921120205,
+        "low_signal": 0.31783006731658564,
+        "points": "QM9tc7xTHndAz3GevhWg40DPdci+D81wQM958j5xwaVAz34du170d0DPgkc6Yu0GQM+GcT0c/O1Az4qcPU99P0DPjsY9wRhzQM+S8D0c/O1Az5cbPSDfaEDPm0W+CIUeQM+fbz4zl0tAz6OaPyY35UDPp8Q/gSeqQM+r7j+AfJNAz7AZPvfmYkDPtEM/a9SlQM+4bT+HeU9Az7yYP4PjmUDPwMI/c9mcQM/E7T+FeAJAz8kXP6PaJEDPzUE/0JbqQM/RbD+uEAJAz9WWP6wtrEDP2cA/s4hhQM/d6z+8xZZAz+IVP5ul3UDP5j8/jR/sQM/qaj9vHH1Az+6UP7y2B0DP8r4/gC7OQM/26T+UuGZAz/sTP7SgdkDP/z0/rMlDQNADaD+J9w5A0AeSP4avGUDQC7w/jkd6QNAP5z+DCddA0BQRP3/hLUDQGDs/hdVWQNAcZj+IBU1A0CCQP+aJ2EDQJLs/KOQGQNAo5T82ApJA0C0PPpQTwEDQMTo9g+i+QNA1ZD6ew0lA0DmOPgfiGEDQPbk94CzMQNBB474xTSZA0EYNvRIBo0DQSji9/4/TQNBOYj5jq/dA0FKMvYkYREDQVrc+xWEAQNBa4T5xRU9A0F8LvozWYkDQYza8efa+",
+        "resolution": 366.324089265537
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H1",
+    "reference_isotope": "Ar40"
+}
